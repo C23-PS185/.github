@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="calorify-logo.png" width="128" />
+	<img src="https://i.ibb.co/g7CWxjY/calorify-logo.png" width="128" />
 	<h3 align="center">Calorify</h3>
 	<p align="center">
 		(Your Personalized and Easy-to-Use Calories Verification Assistant)
