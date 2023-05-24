@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="https://source.android.com/static/docs/setup/images/Android_symbol_green_RGB.svg" width="256" />
+	<img src="calorify-logo.png" width="128" />
 	<h3 align="center">Calorify</h3>
 	<p align="center">
 		(Your Personalized and Easy-to-Use Calories Verification Assistant)
